@@ -25,7 +25,6 @@
 ## Description
 
 This my simple project use framework NestJS. 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
