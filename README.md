@@ -24,7 +24,7 @@
 
 ## Description
 
-This my simple project use framework NestJS. 
+This is simple example use framework NestJS. 
 
 ## Installation
 
